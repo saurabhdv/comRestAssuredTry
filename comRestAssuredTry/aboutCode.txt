@@ -1,4 +1,0 @@
-This is a sample framwork to start with rest assured services automation 
-Here i provided some sample to all verbs [get, post, delete] of rest api to start with.. willbe continuing further to add more
-
-Here i added rest BDD style as TASK3

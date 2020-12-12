@@ -1,4 +1,4 @@
-# comRestAssuredTry1
+# comRestAssuredTry
 
 REST API automation with RestAssured
 
